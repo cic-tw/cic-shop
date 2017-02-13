@@ -1,0 +1,51 @@
+.navbar-inverse{
+	border-radius: 0;
+}
+
+.footer{
+	background-color: #222;
+	text-align: center;
+	color: #9d9d9d;
+	padding: 1em 0;
+}
+h1,h2{
+	font-size: 16px;
+	color: #999;
+
+}
+.my-btn-group a{
+	display: block;
+	float: left;
+	width: 49%;
+	margin: 0 0.5%;
+	padding: 1em 0;
+	text-align: center;
+	font-size: 24px;
+	border:1px solid #ccc;
+}
+.my-btn-group a:hover{
+	text-decoration: none;
+	background-color: #efefef;
+}
+
+.block-margin-bottom{
+	margin-bottom: 40px;
+}
+
+.block-margin-bottom img{
+	max-width: 100%;
+}
+
+.float-right{
+	float: right;
+	margin-bottom: 10px;
+}
+
+
+@media (max-width: 992px) {
+	.float-right{
+		float: none;
+	}
+}
+
+
