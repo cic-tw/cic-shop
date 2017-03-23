@@ -30,12 +30,16 @@ h1,h2{
 
 .block-margin-bottom{
 	margin-bottom: 40px;
+	border:1px solid #ccc;
 }
 
 .block-margin-bottom img{
 	max-width: 100%;
 }
 
+.col-md-4{
+	padding: 0px;
+}
 .float-right{
 	float: right;
 	margin-bottom: 10px;
